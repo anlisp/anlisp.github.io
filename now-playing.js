@@ -1,6 +1,4 @@
 // last.fm now playing
-// 1. make an account at last.fm and connect spotify/apple music etc
-// 2. get a free api key at https://www.last.fm/api/account/create
 const LASTFM_USER = "anlisp";
 const LASTFM_KEY = "b44ada98eb6afe4745f4b35b85d042c8";
 
